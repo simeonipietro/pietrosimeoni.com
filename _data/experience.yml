@@ -9,7 +9,7 @@
   description: | # this will include new lines to allow paragraphs
     I am trying to build piezoelectric ultrasound transducers that occupy areas that are around 1000x smaller 
     than the current state of the art, without sacrificing performance. This is possible thanks to extremely thin (100 nm) AlN layers.
-| # this will include new lines to allow paragraphs
+     | # this will include new lines to allow paragraphs
     While the approach is straightforward, most of my work is about finding solutions to the fabrication problems associated 
     with aggressive miniaturization. An example of this is designing a device that is simultaneously resilient to residual 
     stresses and stress gradients in the deposited films.
