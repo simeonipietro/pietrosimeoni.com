@@ -6,7 +6,16 @@
   dates: July 2017 - present
   quote: >
    
-  description: #| this will include new lines to allow paragraphs
+  description: |I am trying to build piezoelectric ultrasound transducers that occupy areas that are around 1000x smaller 
+  than the current state of the art, without sacrificing performance. This is achieved by using extremely thin (100 nm) AlN layers.
+  |While the approach is straightforward, most of my work is about finding solutions to the fabrication problems associated 
+  with aggressive miniaturization. An example of this is designing a device that is simultaneously resilient to residual 
+  stresses and stress gradients in the deposited films.
+  |The goal of the project is taking advantage of the physics of acoustic waves to build "dust-like" receivers that can function on
+  extremly low-power budgets. With this approach, we would be able to use ultrasound to remotely interrogate sensors nodes for up to 
+  several years without the need to recharge them.
+  
+  #| this will include new lines to allow paragraphs
   
 
 - layout: left
