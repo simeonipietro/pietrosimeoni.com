@@ -93,7 +93,7 @@ skills_content: | # this will include new lines to allow paragraphs
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
   A list of additional information:
-  - My publication can be found on my <a href="https://scholar.google.com/citations?user=D__2vLAAAAAJ&hl=it">Google Scholar</a>
+  - My publications can be found on my <a href="https://scholar.google.com/citations?user=D__2vLAAAAAJ&hl=it">Google Scholar</a>
   - I am one of the 2019 recipients of the <a href="https://engineering.cmu.edu/faculty-staff/awards/faculty-awards/dowd-fellowship.html">Dowd Felloship</a>
 
 
