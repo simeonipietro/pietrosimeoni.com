@@ -92,12 +92,13 @@ skills_content: | # this will include new lines to allow paragraphs
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
-  This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+  A list of additional information:
+  - My publication can be found on my <a href="https://scholar.google.com/citations?user=D__2vLAAAAAJ&hl=it">Google Scholar</a>
+  - I am one of the 2019 recipients of the <a href="https://engineering.cmu.edu/faculty-staff/awards/faculty-awards/dowd-fellowship.html">Dowd Felloship</a>
 
-  Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 
 # Build settings
 # theme: modern-resume-theme (Use this is you are hosting your resume yourself)
