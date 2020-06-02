@@ -80,7 +80,7 @@ projects_title:
 # Skills Section
 # skills_title:  #(Use this to override about more section title)
 skills_content: | # this will include new lines to allow paragraphs
- *Programming*: Matlab, Python, Skill, LaTex
+ *Programming* : Matlab, Python, Skill, LaTex
  
  *Software*   : Comsol (FEM), ADS (Circuit Sim), Solidworks (CAD), KiCad (PCB design), MSOffice
  
