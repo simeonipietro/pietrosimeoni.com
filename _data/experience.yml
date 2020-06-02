@@ -4,7 +4,7 @@
   link: 
   job_title: PhD Candidate
   dates: July 2017 - present
-  quote: >
+  quote: >PhD program main project - Piezoelectric Nanoscale Ultrasound Transducers (pNUTs)
    
   description: | # this will include new lines to allow paragraphs
     I am trying to build piezoelectric ultrasound transducers that occupy areas that are around 1000x smaller 
@@ -20,12 +20,12 @@
     without the need to recharge them for several years.
 
 - layout: left
-  company: Company name
-  link: Link to company (optional)
-  job_title: Job title
-  dates: Date Range (eg. November 2016 - present)
-  quote: >
+  company: Carnegie Mellon University
+  link: 
+  job_title: Research Assistant
+  dates: February 2016 - August 2016
+  quote: > Project of my Master Thesis
    Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
-    Description of role
+    My role was developing FEM models for a nano-mechanical relay in COMSOL Multiphysics.
 
