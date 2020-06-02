@@ -55,7 +55,8 @@ about_content: | # this will include new lines to allow paragraphs
   functional understanding of circuit design, signal processing, radio communication, and anything
   regarding what is "around" the device.
 
-  At the moment I am working on my Ph.D. with the guidance of Gian Piazza. My thesis will be about
+  At the moment I am working on my Ph.D. with the guidance of <a href = "https://www.ece.cmu.edu/directory/bios/piazza-gianluca.html">
+  Gian Piazza</a>. My thesis will be about
   using highly miniaturized piezoelectric ultrasound transducers to communicate with IoT sensor nodes.
 
   Check out the section below for more details :)
