@@ -78,6 +78,10 @@ projects_title:
 # Education Section
 # education_title: Education #(Use this to override about education section title)
 
+# Skills Section
+# skills_title:  #(Use this to override about more section title)
+skills_content: | # this will include new lines to allow paragraphs
+
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
 more_content: | # this will include new lines to allow paragraphs
